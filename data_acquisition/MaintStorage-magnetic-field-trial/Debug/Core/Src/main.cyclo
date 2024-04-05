@@ -1,0 +1,16 @@
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h:1679:22:void LL_RCC_LSE_SetDriveCapability(uint32_t)	1
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:void LL_AHB2_GRP1_EnableClock(uint32_t)	1
+../Core/Src/main.cpp:77:26:HAL_StatusTypeDef UART_Transmit(float, float, float, float, float)	3
+../Core/Src/main.cpp:97:26:HAL_StatusTypeDef UART_Transmit_Begin(float, float, float, float, float)	3
+../Core/Src/main.cpp:117:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	2
+../Core/Src/main.cpp:131:5:int main()	2
+../Core/Src/main.cpp:246:6:void SystemClock_Config()	3
+../Core/Src/main.cpp:310:6:void PeriphCommonClock_Config()	2
+../Core/Src/main.cpp:332:13:void MX_I2C1_Init()	4
+../Core/Src/main.cpp:377:13:void MX_I2C3_Init()	4
+../Core/Src/main.cpp:422:13:void MX_MEMORYMAP_Init()	1
+../Core/Src/main.cpp:442:13:void MX_TIM2_Init()	4
+../Core/Src/main.cpp:484:13:void MX_USART1_UART_Init()	5
+../Core/Src/main.cpp:529:13:void MX_USB_PCD_Init()	2
+../Core/Src/main.cpp:560:13:void MX_GPIO_Init()	1
+../Core/Src/main.cpp:605:6:void Error_Handler()	1

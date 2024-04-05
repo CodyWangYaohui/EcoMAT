@@ -1,0 +1,7 @@
+../Core/Src/hall_sensor.cpp:10:1:Sensor::Sensor(I2C_HandleTypeDef*, int, int, int, int)	3
+../Core/Src/hall_sensor.cpp:31:6:void Sensor::SetAdcConvCoeff(int)	7
+../Core/Src/hall_sensor.cpp:62:19:HAL_StatusTypeDef Sensor::SetChannel()	1
+../Core/Src/hall_sensor.cpp:75:6:void Sensor::SampleStore()	2
+../Core/Src/hall_sensor.cpp:107:6:void Sensor::ProcessData()	1
+../Core/Src/hall_sensor.cpp:122:6:void Sensor::Update()	1
+../Core/Src/hall_sensor.cpp:138:7:float Sensor::ReportReading()	1
