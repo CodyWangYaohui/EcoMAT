@@ -1,18 +1,21 @@
-# MaintStorage: Magnet-Based Asset Tracking and Machine Health Monitoring
+# EcoMAT: Permanent Magnet Based Asset Tracking
 
 
 ## Overview
 This project is dedicated to the development of innovative IoT solutions for monitoring cleanroom environments in academic settings. The main focus is on asset tracking using magnetic fields and machine health monitoring through vibration data analysis. The repository hosts an array of tools and data, divided into sections for data acquisition, data storage, and analysis.
 
+
 ## Repository Structure
-
-├── LICENSE
-├── README.md
-├── data # Directory containing datasets from various experiments
-├── data_acquisition # Tools and scripts for data acquisition
-└── data_analysis # Jupyter notebooks and scripts for analysis
-
-
+- **data**
+  - Stores all datasets and experimental results organized by date and experiment type.
+- **data_acquisition**
+  - Contains tools and scripts used for collecting data from various devices and sensors.
+- **data_analysis**
+  - Includes Jupyter notebooks and other scripts for data processing, analysis, and visualization.
+- **LICENSE**
+  - Contains the terms under which the project can be used.
+- **README.md**
+  - Provides an overview of the project, setup instructions, and other necessary documentation to get started.
 
 ### Data
 Contains datasets organized by experimental setup and date. Each subdirectory is named after the type of experiment or the date it was conducted, such as:
