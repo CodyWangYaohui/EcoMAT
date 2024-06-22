@@ -2,7 +2,7 @@
 
 
 ## Overview
-This project is dedicated to the development of innovative IoT solutions for monitoring cleanroom environments in academic settings. The main focus is on asset tracking using magnetic fields and machine health monitoring through vibration data analysis. The repository hosts an array of tools and data, divided into sections for data acquisition, data storage, and analysis.
+Welcome to our repository, dedicated to advancing asset tracking in cleanroom environments through the innovative use of permanent magnets. Our project centers on a novel asset tracking system, named "EcoMAT," which harnesses the unique properties of permanent magnets to offer a cost-effective, highly accurate, and scalable solution for monitoring hazardous chemicals.
 
 
 ## Repository Structure
